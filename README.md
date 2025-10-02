@@ -1,6 +1,5 @@
 ## Hi I'm Jumaniyozov Behruzbek👋
 Men honqa tumani 34-sonli maktabda o'qiman undan tashqari AL Xolazmiy vorislari loyihasida o'qiman
-
 HTML
 CSS
 JavaScript
