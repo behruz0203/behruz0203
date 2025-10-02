@@ -1,8 +1,6 @@
 ## Hi I'm Jumaniyozov Behruzbek👋
 Men honqa tumani 34-sonli maktabda o'qiman undan tashqari AL Xolazmiy vorislari loyihasida o'qiman
-HTML
-CSS
-JavaScript
+
 
 <!-- 
 **behruz0203/behruz0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
