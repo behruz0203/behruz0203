@@ -1,5 +1,9 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 
+
+![68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667](https://github.com/user-attachments/assets/da266024-63a4-4d84-8d29-a5b1ed013cd2)
+
+
 ## Hi I'm Jumaniyozov Behruzbek👋
 Men honqa tumani 34-sonli maktabda o'qiman undan tashqari AL Xolazmiy vorislari loyihasida o'qiman
 
