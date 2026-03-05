@@ -20,7 +20,7 @@ Men honqa tumani 34-sonli maktabda o'qiman undan tashqari AL Xolazmiy vorislari 
 ![github-snake-dark](https://github.com/user-attachments/assets/b365fb6d-736a-4739-8701-03eafc903539)
 
 
-<img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
 
 
       
