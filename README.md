@@ -6,7 +6,7 @@ Men honqa tumani 34-sonli maktabda o'qiman undan tashqari AL Xolazmiy vorislari 
 
 
 <div align="center">                                                            
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Salom+Men+Jumaniyozov+Behruzbek;IT+Sohasiga+Qizqaman;Maqsadim+Web+Dasturchi+bolish" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Salom+Men+Jumaniyozov+Behruzbek;IT+Sohasiga+O'qiyman;Maqsadim+Web+Dasturchi+bolish;Agar+Sizham+IT ga+Qiziqsangiz+Meni+Kuzating" alt="Typing SVG"/>
 </div>
 
 
