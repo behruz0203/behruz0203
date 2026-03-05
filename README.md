@@ -23,9 +23,10 @@ Men honqa tumani 34-sonli maktabda o'qiman undan tashqari AL Xolazmiy vorislari 
 <img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
 
 
-      <div align="center">
-      <img src="https://github.com/user-attachments/assets/9489c387-10f4-4a19-803a-cd3cd27243e0" alt="Metrics Organization" width="59%" />
-    </div>
+      
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9489c387-10f4-4a19-803a-cd3cd27243e0" alt="Metrics Organization" width="59%" />
+</div>
 
 
 <!-- 
